@@ -1,0 +1,19 @@
+.output{
+    width: 230px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 6px ;
+    text-align: center;
+    border-radius: 5px;
+}
+.main{
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 522px;
+}
+.search_bar{
+    display: flex;
+}
+.search_button{
+    margin-left: 6px;
+}
